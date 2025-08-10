@@ -5,6 +5,7 @@
 - **相关引用**:
   - [不合规 RTSP Content-Base 支持](https://github.com/bluenviron/mediamtx/issues/825)
   - [Go 1.24.0 Android CGO 编译解决方案](https://github.com/wlynxg/anet)
+  - [增加RTMP H265 支持国内标准 code == 12] (新增) 源码修改见git 仓库(https://github.com/vicolj/mediamtx-compile)
 
 ## 目录
 1. [环境准备](#环境准备)
